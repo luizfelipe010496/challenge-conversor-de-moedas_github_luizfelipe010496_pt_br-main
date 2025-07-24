@@ -37,7 +37,7 @@ Projeto desenvolvido durante o curso da **Alura**, no programa **Oracle Next Edu
 
 ## ▶️ Como rodar a aplicação
 
-1. Clone o repositório:
+1. Clone o repositório ou faça o download direatamente do ".zip":
    ```bash
    git clone https://github.com/seu-usuario/conversor-moedas-java.git
    ```
@@ -127,7 +127,7 @@ Here are the main features and logic flow used in the files (`Principal.java`, `
 
 ## ▶️ How to Run the Application
 
-To run the application:
+Clone the repository or download the ".zip" directly:
 
 ```bash
 javac Principal.java conversor/ConversorMoeda.java
