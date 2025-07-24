@@ -39,7 +39,7 @@ Projeto desenvolvido durante o curso da **Alura**, no programa **Oracle Next Edu
 
 1. Clone o repositório ou faça o download direatamente do ".zip":
    ```bash
-   git clone https://github.com/seu-usuario/conversor-moedas-java.git
+   git clone https://github.com/luizfelipe010496/challenge-conversor-de-moedas_github_luizfelipe010496_pt_br-main.git
    ```
 
 2. Abra no IntelliJ IDEA, Eclipse ou outro IDE Java de sua preferência.
